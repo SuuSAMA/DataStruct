@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stack_struct" />
+        <module name="set_struct" />
+        <module name="tree_struct" />
+        <module name="queue_struct" />
+        <module name="list_struct" />
+        <module name="array_struct" />
+        <module name="map_struct" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="recursive_struct" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
